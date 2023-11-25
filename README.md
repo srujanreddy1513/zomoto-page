@@ -1,0 +1,2 @@
+# zomoto-page
+fimprc
